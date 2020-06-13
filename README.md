@@ -1,5 +1,3 @@
-Directory to store settings and scripts to make it quick 'n' easy to get my environment up and running on a new machine.
-
 ```
 .user-settings/
     _scripts/
